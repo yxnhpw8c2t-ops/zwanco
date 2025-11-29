@@ -1,21 +1,21 @@
-# USTROJSTVO SUDBENE VLASTI I DRŽAVNE UPRAVE
+## USTROJSTVO SUDBENE VLASTI I DRŽAVNE UPRAVE
 
-## Što je ustav i i kakva je država Republika Hrvatska?
+### Što je ustav i i kakva je država Republika Hrvatska?
 
 Ustav je temeljni ``pravni akt`` jedne države na temelju kojega se donose ostali zakoni.
 
 Republika Hrvatska je ``jedinstvena i nedjeljiva`` demokratska i socijalna država u kojoj ``vlast proizlazi iz naroda`` i ``pripada narodu`` kao ``zajednici slobodnih i ravnopravnih državljana``.
 
-## Koje su najviše vrednote ustavnog poretka?
+### Koje su najviše vrednote ustavnog poretka?
 
 Najviše vrednote ustavnog poretka su: sloboda, jednakost, nacionalna ravnopravnost i ravnopravnost spolova, mirotvorstvo, socijalna pravda, poštivanje prava čovjeka, nepovredivost vlasništva, očuvanje prirode i čovjekova okoliša, vladavina prava i demokratski višestranački sustav.
 
-## Kako je ustrojena vlast u Republici Hrvatskoj?
+### Kako je ustrojena vlast u Republici Hrvatskoj?
 
 Vlast u Republici Hrvatskoj je ustrojena na načelu diobe vlasti na zakonodavnu, izvršnu i sudbenu, a ograničena je Ustavom zajamčenim pravom na lokalnu i regionalnu samoupravu. Nositelj zakonodavne vlasti je Hrvatski sabor, izvršnu vlast obavlja Vlada Republike Hrvatske, a sudbenu sudovi.
-# USTROJSTVO SUDBENE VLASTI
+## USTROJSTVO SUDBENE VLASTI
 
-## Što uređuje Zakon o sudovima?
+### Što uređuje Zakon o sudovima?
 
 Zakonom o sudovima uređuje se ustrojstvo, djelokrug i stvarna nadležnost sudova ako nije određena drugim zakonom, unutarnje ustrojstvo sudova, poslovi sudske uprave i ovlasti predsjednika suda, poslovi ravnatelja sudske uprave, zaštita prava na suđenje u razumnom roku, nadzor nad obavljanjem poslova sudske uprave i pravosudna inspekcija, prava i dužnosti sudaca, ovlasti sudskih savjetnika, osiguranje osoba, imovine i objekata sudova,
 
